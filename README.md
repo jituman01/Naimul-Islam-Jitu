@@ -32,7 +32,7 @@ I build things using these technologies (No bullet points, just icons):
 Feel free to reach out to me on any of these platforms:
 
 <p align="left">
-<a href="https://linkedin.com/in/md-naimul-islam-jitu" target="blank"><img align="center" src="https://www.linkedin.com/in/md-naimul-islam-jitu/" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-naimul-islam-jitu" target="blank"><img align="center" src="https://www.linkedin.com/in/md-naimul-islam-jitu" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
