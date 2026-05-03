@@ -3,7 +3,7 @@
 
 <!-- Dynamic Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Md.%20Naimul%20Islam%20Jitu&subText=Frontend%20Developer&fontSize=45&subFontSize=20&animation=fadeIn" width="100%" />
+  <img src="https://i.pinimg.com/1200x/ac/15/da/ac15dae3e1ebe1a151b26de806db9999.jpg" width="100%" />
 </p>
 
 ---
