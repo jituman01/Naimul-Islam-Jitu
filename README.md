@@ -2,7 +2,7 @@
 ### Frontend Developer | Sociology Student
 
 <!-- Dynamic Banner -->
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=45)
+![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Md.%20Naimul%20Islam%20Jitu&subText=Frontend%20Developer&fontSize=35&subFontSize=20&subTextPosition=55)
 
 ---
 
@@ -30,7 +30,7 @@ I build things using these technologies (No bullet points, just icons):
 Feel free to reach out to me on any of these platforms:
 
 <p align="left">
-<a href="https://linkedin.com/in/md-naimul-islam-jitu" target="blank"><img align="center" src="https://www.linkedin.com/in/md-naimul-islam-jitu/" alt="LinkedIn" height="30" width="40" />Linkedin</a>
+<a href="https://linkedin.com/in/md-naimul-islam-jitu" target="blank"><img align="center" src="https://www.linkedin.com/in/md-naimul-islam-jitu/" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
